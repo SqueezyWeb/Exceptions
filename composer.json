@@ -1,0 +1,19 @@
+{
+    "name": "squeezyweb/exceptions",
+    "description": "Simple library of exceptions.",
+    "type": "library",
+    "license": "GPLv2+",
+    "authors": [
+        {
+            "name": "Gianluca Merlo",
+            "email": "gianluca@squeezyweb.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "SqueezyWeb\\Exceptions\\": "Lib"
+      }
+    }
+}
