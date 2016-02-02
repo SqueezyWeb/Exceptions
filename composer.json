@@ -1,5 +1,5 @@
 {
-    "name": "squeezyweb/exceptions",
+    "name": "freyja/exceptions",
     "description": "Simple library of exceptions.",
     "type": "library",
     "license": "GPLv2+",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
       "psr-4": {
-        "SqueezyWeb\\Exceptions\\": "Lib"
+        "Freyja\\Exceptions\\": "Lib"
       }
     }
 }

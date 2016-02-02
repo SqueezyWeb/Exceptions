@@ -2,21 +2,21 @@
 /**
  * InvalidArgumentException class file.
  *
- * @package SqueezyWeb\Exceptions
+ * @package Freyja\Exceptions
  * @copyright 2016 SqueezyWeb
- * @author Gianluca Merlo <gianluca@squeezyweb.com>
  * @since 1.0.0
  */
 
-namespace SqueezyWeb\Exceptions;
+namespace Freyja\Exceptions;
 
 /**
  * InvalidArgumentException class.
  *
- * @package SqueezyWeb\Exceptions
+ * @package Freyja\Exceptions
  * @author Gianluca Merlo <gianluca@squeezyweb.com>
+ * @since 2.0.0 Changed namespace
  * @since 1.0.0
- * @version 1.0.0
+ * @version 2.0.0
  */
 class InvalidArgumentException extends \InvalidArgumentException {
   /**
