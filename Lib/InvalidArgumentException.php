@@ -18,7 +18,7 @@ namespace Freyja\Exceptions;
  * @since 1.0.0
  * @version 2.0.0
  */
-class InvalidArgumentException extends \InvalidArgumentException {
+class InvalidArgumentException extends \InvalidArgumentException implements ExceptionInterface {
   /**
    * Create an exception with the explanation of the error.
    *
